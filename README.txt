@@ -20,4 +20,4 @@ Pro Tip:
 You can replace cmd/win easy by ctrl by doing a 'replace all' 
 on the python file and replacing 'cmd' for 'ctrl'.
 
-Just be careful some windows compute turn the screen orientation when 'Ctrl'+'alt'+'arrow keys'
+Just be careful some windows computer turn the screen orientation when 'Ctrl'+'alt'+'arrow keys'
